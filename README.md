@@ -1,6 +1,6 @@
 ## Calculadora 🖩
 <br>
-#🔢 Calculadora en Kotlin usando el IDE Android Studio
+#Calculadora en Kotlin usando el IDE Android Studio🔢 
 <br>
 Brenda Marina Ramírez Macías
 <br>
