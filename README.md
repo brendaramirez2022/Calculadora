@@ -1,7 +1,6 @@
 # Calculadora 🖩
 <br>
 ** 🔢 Calculadora en Kotlin usando el IDE Android Studio**
-https://drive.google.com/file/d/1QZl6xpYa00wUcbgUelaMYuVbJS36qPHg/view?usp=share_link
 <br>
 Brenda Marina Ramírez Macías
 <br>
